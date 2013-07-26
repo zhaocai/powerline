@@ -28,6 +28,7 @@
 		"line_current_symbol":    { "fg": "gray13", "bg": "lightyellow" },
 		"virtcol_current_gradient": { "fg": "GREEN_Orange_red", "bg": "gray10" },
 		"col_current":            { "fg": "azure4", "bg": "lightyellow" },
+		"environment":              { "fg": "gray61", "bg": "royalblue5" }
 		"ruby_version":           { "fg": "red", "bg": "royalblue5", "attr": ["bold"]},
 		"syntastic_segment":      { "fg": "brightestred", "bg": "gray2", "attr": ["bold"] },
 		"unite_segment":          { "fg": "lightyellow", "bg": "darkgreencopper" }
